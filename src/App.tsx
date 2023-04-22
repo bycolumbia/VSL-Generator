@@ -1,5 +1,5 @@
 import './App.css';
-import image from './images/Gerador_De_VSL_Gŕátis.png'
+import image from './images/GERADOR_DE.png'
 import pptxgen from "pptxgenjs";
 import React, { useState } from 'react';
 
