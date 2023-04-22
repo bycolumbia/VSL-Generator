@@ -95,7 +95,7 @@ function App() {
       <button onClick={generate}>Gerar VSL</button> 
       </div>
     </div>
-    <footer className="footter-content">Gerador de VSL Gŕaits @Copyright 2022-2023</footer>
+    <footer className="footter-content">Gerador de VSL Grátis @Copyright 2022-2023</footer>
     </div>
   );
 }
