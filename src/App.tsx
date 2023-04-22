@@ -1,5 +1,5 @@
 import './App.css';
-import image from './images/GERADOR_DE.png'
+import image from './images/Gerador_De_VSL_Gŕátis.png'
 import pptxgen from "pptxgenjs";
 import React, { useState } from 'react';
 
@@ -95,7 +95,7 @@ function App() {
       <button onClick={generate}>Gerar VSL</button> 
       </div>
     </div>
-    <footer className="footter-content">Gerador de VSL @Copyright 2022</footer>
+    <footer className="footter-content">Gerador de VSL Gŕaits @Copyright 2022-2023</footer>
     </div>
   );
 }
